@@ -1,0 +1,8 @@
+[package]
+authors = ["messense <messense@icloud.com>"]
+name = "rusted"
+version = "0.1.0"
+
+[dependencies]
+pulldown-cmark = "0.0.8"
+syntect = "1.0"
