@@ -1,7 +1,7 @@
 [package]
 authors = ["messense <messense@icloud.com>"]
 name = "rusted"
-version = "0.1.0"
+version = "0.1.1"
 
 [dependencies]
 pulldown-cmark = "0.0.8"
