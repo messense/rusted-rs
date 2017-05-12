@@ -9,5 +9,5 @@ repository = "https://github.com/messense/rusted-rs"
 version = "0.1.2"
 
 [dependencies]
-pulldown-cmark = "0.0.8"
-syntect = "1.1"
+pulldown-cmark = "0.0.14"
+syntect = "1.3"
