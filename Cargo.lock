@@ -1,6 +1,6 @@
 [root]
 name = "rusted"
-version = "0.1.2"
+version = "0.1.3"
 dependencies = [
  "pulldown-cmark 0.0.14 (registry+https://github.com/rust-lang/crates.io-index)",
  "syntect 1.3.0 (registry+https://github.com/rust-lang/crates.io-index)",

@@ -6,7 +6,7 @@ license = "MIT"
 name = "rusted"
 readme = "README.md"
 repository = "https://github.com/messense/rusted-rs"
-version = "0.1.2"
+version = "0.1.3"
 
 [dependencies]
 pulldown-cmark = "0.0.14"
